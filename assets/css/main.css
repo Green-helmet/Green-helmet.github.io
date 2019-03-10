@@ -2398,13 +2398,13 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 15em 0 15em 0;
+				padding: 10em 0 12em 0;
 			}
 
 		/* Banner */
 
 			#banner {
-				padding: 1em;
+				padding: 3.5em;
 				background-size: 200% auto;
 			}
 
@@ -2589,7 +2589,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 1em 2em 3em 2em;
+				padding: 3em 2em 3em 2em;
 				background-size: auto 150%;
 			}
 
